@@ -1,0 +1,7 @@
+{
+  "name": "Tipmaster World Cup",
+  "description": "Premium World Cup prediction hub with match prediction engine, instant settlement & reconciliation, and live leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
